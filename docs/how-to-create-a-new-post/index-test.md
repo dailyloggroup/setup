@@ -1,16 +1,14 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+nav_order: 4
+parent: How to create a new post
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Markdown Basics
 
-[Link to another page](another-page).
+The following text is from [Just the docs](https://github.com/pmarsceill/just-the-docs/blob/master/docs/index-test.md) page.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)Header 1
 
@@ -178,3 +176,12 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+### Emphasis and Links
+
+- Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+- Link to another page](another-page).
+
+- There should be whitespace between paragraphs.
