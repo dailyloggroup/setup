@@ -39,7 +39,9 @@ permalink: /docs/how-to-create-a-pull-request
 
 - Go to the shared project repository on GitHub, and you’ll see a button "Compare & pull request. Click it to open a new pull request. 
 
-- Provide a brief description of your post. Now submit the pull request by clicking the green button on the bottom of the request form.
+- Provide a brief description of your post. Answer 4 questions in the automatically generated template. Now submit the pull request by clicking the green button on the bottom of the request form.
+
+![PR Template](../assets/images/pr_template.png)
 
 
 ## Respond to feedback
